@@ -2,10 +2,7 @@
 
 <hr> </hr>
 
-# 1. Password Strength Classifier
-<p> Click below link to see overview </p>
-<a href="https://bit.ly/3qn6eff/" target="_blank">Password Strength Classifier</a>
+# <a href="https://tinyurl.com/ygcxlzyo" target="_blank">1. Password Strength Classifier</a>
 
 <hr> </hr>
-
 
